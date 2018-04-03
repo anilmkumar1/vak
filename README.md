@@ -1,0 +1,2 @@
+# vak
+If you want to download the latest release of Git available, or simply want more flexibility in the installation process, the best method for you is to compile the software from source. This takes longer, and will not be updated and maintained through the yum package manager, but it will allow you to download a newer version than what is available through the CentOS repositories, and will give you some control over the options that you can include.
